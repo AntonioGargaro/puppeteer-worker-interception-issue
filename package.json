@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-worker-interception",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx serve -p 3000 ./public",
+    "test": "mocha ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.4.0",
+    "puppeteer": "^22.8.0"
+  }
+}
